@@ -1,6 +1,6 @@
 
 
 
-public class pataton{
+public class pataton {
 	boolean sergyEsMujer = True;
 }
