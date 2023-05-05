@@ -1,0 +1,6 @@
+
+
+
+public class pataton{
+	boolean sergyEsMujer = True;
+}
